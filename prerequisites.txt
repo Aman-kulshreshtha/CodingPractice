@@ -1,0 +1,11 @@
+basic opeations in javascript 
+some familiarity with array and objects and some functions used with them (not required in deep)
+named exports/imports 
+default exports/imports
+normal functions and arrow functions in javascript
+synchronous and asynchronous javascript
+what are promises?
+async and await syntax
+try catch block
+try and understand the concepts of blocking and non blocking code
+
